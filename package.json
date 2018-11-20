@@ -1,0 +1,19 @@
+{
+  "name": "studious-spork",
+  "version": "1.0.0",
+  "description": "我准备在这里放小程序的公共组件",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Caloprymnus-Campestris/studious-spork.git"
+  },
+  "author": "yonking",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Caloprymnus-Campestris/studious-spork/issues"
+  },
+  "homepage": "https://github.com/Caloprymnus-Campestris/studious-spork#readme"
+}

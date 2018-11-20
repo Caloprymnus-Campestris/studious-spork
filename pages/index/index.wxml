@@ -1,0 +1,5 @@
+<!--index.wxml-->
+<navigation title="名片"></navigation>
+<view class="container">
+  
+</view>
