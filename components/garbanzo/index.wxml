@@ -1,0 +1,5 @@
+<view class="box">
+    <view wx:for="{{list}}" class="">
+        {{item.name}}-{{item.key}}
+    </view>
+</view>

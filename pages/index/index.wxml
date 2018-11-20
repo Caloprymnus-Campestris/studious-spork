@@ -1,5 +1,4 @@
 <!--index.wxml-->
-<navigation title="名片"></navigation>
 <view class="container">
-  
+  <list-garbanzo list="{{list}}"></list-garbanzo>
 </view>
